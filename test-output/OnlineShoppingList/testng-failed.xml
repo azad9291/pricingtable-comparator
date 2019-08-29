@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OnlineShoppingList]">
+  <test thread-count="5" name="TestRunner(failed)">
+    <classes>
+      <class name="wtt.comparator.ConversionTest">
+        <methods>
+          <include name="RunTest"/>
+        </methods>
+      </class> <!-- wtt.comparator.ConversionTest -->
+    </classes>
+  </test> <!-- TestRunner(failed) -->
+</suite> <!-- Failed suite [OnlineShoppingList] -->
